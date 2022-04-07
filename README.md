@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coderimizbu
 - 👀 I’m interested in everything what is interesting for me 
-- 🌱 I’m currently learning new languages where I can easily understand
+- 🌱 I’m currently learning new languages which I can easily understand
 - 📫 denizcicekput@gmail.com
 
 <!---
